@@ -1,0 +1,19 @@
+p{
+    color: green;
+    text-shadow: 2px 3px 5px black;
+    text-align: center;   
+}
+.division{
+    font-size: large;
+    border: 1px solid red;
+} 
+#naveen {
+    color: pink;
+    background: blue;
+}
+div,p,a{
+    border:2px solid red;
+}
+*{
+    background-color:wheat;
+}
